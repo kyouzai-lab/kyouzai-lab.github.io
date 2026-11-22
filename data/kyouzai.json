@@ -1,0 +1,115 @@
+{
+  "_使い方": "教材を足すときは items の最後に1件足すだけ。kind は「授業で使う」「クラスで遊ぶ」「授業の道具」のどれか。subjects は教科の配列（どの教科でも使えるなら「全教科」）。grades は学年の数字の配列（1〜6年ぜんぶなら全学年と表示）。image は shots/ に置いた画像（横:縦 = 約10:7）。",
+  "items": [
+    {
+      "id": "teko-nazo",
+      "title": "てこのなぞ",
+      "kind": "授業で使う",
+      "subjects": ["理科"],
+      "grades": [6],
+      "unit": "てこのはたらき",
+      "desc": "おもりをつるして、てこがつり合うなぞを解く15問。",
+      "url": "https://kyouzai-lab.github.io/teko-nazo/",
+      "image": "shots/teko-nazo.webp"
+    },
+    {
+      "id": "kanji-kakitori",
+      "title": "漢字 書き取りれんしゅう",
+      "kind": "授業で使う",
+      "subjects": ["国語"],
+      "grades": [6],
+      "unit": "漢字（光村 6上・6下）",
+      "desc": "ノートに書いてから答え合わせ。まちがえた問題だけ復習できる。",
+      "url": "https://kyouzai-lab.github.io/kanji-kakitori/",
+      "image": "shots/kanji-kakitori.webp"
+    },
+    {
+      "id": "nihon-bunka",
+      "title": "みんなで出そう！",
+      "kind": "授業で使う",
+      "subjects": ["国語"],
+      "grades": [6],
+      "unit": "日本文化を発信しよう",
+      "desc": "「日本の文化といえば？」を、クラス全員で重ならないように出し合う。",
+      "url": "https://kyouzai-lab.github.io/nihon-bunka/",
+      "image": "shots/nihon-bunka.webp"
+    },
+    {
+      "id": "math-ai",
+      "title": "算数そうだんAI",
+      "kind": "授業で使う",
+      "subjects": ["算数"],
+      "grades": [6],
+      "unit": "算数ぜんぱん",
+      "desc": "わからないときに、考え方のヒントを返してくれる相談AI。",
+      "url": "https://kyouzai-lab.github.io/math-ai/web/",
+      "image": "shots/math-ai.webp"
+    },
+    {
+      "id": "wakuwaku-programming",
+      "title": "わくわくプログラミング",
+      "kind": "授業で使う",
+      "subjects": ["算数"],
+      "grades": [5],
+      "unit": "倍数と約数（プログラミング）",
+      "desc": "ブロックを組んで、数表のマスを倍数の色でぬるミッション。",
+      "url": "https://kyouzai-lab.github.io/wakuwaku-programming/",
+      "image": "shots/wakuwaku-programming.webp"
+    },
+    {
+      "id": "dagakki-ongaku",
+      "title": "打楽器の音楽をつくろう",
+      "kind": "授業で使う",
+      "subjects": ["音楽"],
+      "grades": [4],
+      "unit": "打楽器の音楽づくり",
+      "desc": "楽器とカードを表にならべて、グループの音楽を組み立てる。",
+      "url": "https://kyouzai-lab.github.io/dagakki-ongaku/",
+      "image": "shots/dagakki-ongaku.webp"
+    },
+    {
+      "id": "hayaoshi",
+      "title": "早押しクイズ",
+      "kind": "クラスで遊ぶ",
+      "subjects": ["国語", "算数", "理科", "社会"],
+      "grades": [4, 5, 6],
+      "unit": "4教科のクイズ",
+      "desc": "クイズ番組のような早押しで、2〜5人で対戦。ひらがなで答える。",
+      "url": "https://hal-88.github.io/hayaoshi/",
+      "image": "shots/hayaoshi.webp"
+    },
+    {
+      "id": "hayauchi",
+      "title": "はやうち忍者",
+      "kind": "クラスで遊ぶ",
+      "subjects": ["国語"],
+      "grades": [3, 4, 5, 6],
+      "unit": "ローマ字入力",
+      "desc": "忍者になって、ローマ字の早打ちで対戦。術でぎゃくてんもある。",
+      "url": "https://hal-88.github.io/hayauchi/",
+      "image": "shots/hayauchi.webp"
+    },
+    {
+      "id": "hoshi-atsume",
+      "title": "ほしあつめ スコアボード",
+      "kind": "授業の道具",
+      "subjects": ["全教科"],
+      "grades": [1, 2, 3, 4, 5, 6],
+      "unit": "班のがんばりを数える",
+      "desc": "班をタップして★を足していく。大きな画面に映して使う。",
+      "url": "https://kyouzai-lab.github.io/hoshi-atsume/",
+      "image": "shots/hoshi-atsume.webp"
+    },
+    {
+      "id": "shashin-teishutsu",
+      "title": "写真ていしゅつ",
+      "kind": "授業の道具",
+      "subjects": ["全教科"],
+      "grades": [6],
+      "unit": "写真を集めて印刷",
+      "desc": "写真を1〜3枚送ると、先生が出席番号順にA4で印刷できる。",
+      "url": "https://kyouzai-lab.github.io/shashin-teishutsu/",
+      "image": "shots/shashin-teishutsu.webp"
+    }
+  ]
+}
