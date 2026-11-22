@@ -90,6 +90,17 @@
       "image": "shots/hayauchi.webp"
     },
     {
+      "id": "kanji-sugoroku",
+      "title": "漢字すごろく",
+      "kind": "クラスで遊ぶ",
+      "subjects": ["国語"],
+      "grades": [4, 5, 6],
+      "unit": "漢字の読み",
+      "desc": "読めたら進める3Dすごろく。カードでじゃまし合い、オンライン対戦も。",
+      "url": "https://hal-88.github.io/kanji-sugoroku/",
+      "image": "shots/kanji-sugoroku.webp"
+    },
+    {
       "id": "hoshi-atsume",
       "title": "ほしあつめ スコアボード",
       "kind": "授業の道具",
