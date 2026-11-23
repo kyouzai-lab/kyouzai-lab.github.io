@@ -5,12 +5,8 @@
       "id": "teko-nazo",
       "title": "てこのなぞ",
       "kind": "授業で使う",
-      "subjects": [
-        "理科"
-      ],
-      "grades": [
-        6
-      ],
+      "subjects": ["理科"],
+      "grades": [6],
       "unit": "てこのはたらき",
       "desc": "おもりをつるして、てこがつり合うなぞを解く15問。",
       "url": "https://kyouzai-lab.github.io/teko-nazo/",
@@ -20,12 +16,8 @@
       "id": "kanji-kakitori",
       "title": "漢字 書き取りれんしゅう",
       "kind": "授業で使う",
-      "subjects": [
-        "国語"
-      ],
-      "grades": [
-        6
-      ],
+      "subjects": ["国語"],
+      "grades": [6],
       "unit": "漢字（光村 6上・6下）",
       "desc": "ノートに書いてから答え合わせ。まちがえた問題だけ復習できる。",
       "url": "https://kyouzai-lab.github.io/kanji-kakitori/",
@@ -35,12 +27,8 @@
       "id": "nihon-bunka",
       "title": "みんなで出そう！",
       "kind": "授業で使う",
-      "subjects": [
-        "国語"
-      ],
-      "grades": [
-        6
-      ],
+      "subjects": ["国語"],
+      "grades": [6],
       "unit": "日本文化を発信しよう",
       "desc": "「日本の文化といえば？」を、クラス全員で重ならないように出し合う。",
       "url": "https://kyouzai-lab.github.io/nihon-bunka/",
@@ -50,12 +38,8 @@
       "id": "math-ai",
       "title": "算数そうだんAI",
       "kind": "授業で使う",
-      "subjects": [
-        "算数"
-      ],
-      "grades": [
-        6
-      ],
+      "subjects": ["算数"],
+      "grades": [6],
       "unit": "算数ぜんぱん",
       "desc": "わからないときに、考え方のヒントを返してくれる相談AI。",
       "url": "https://kyouzai-lab.github.io/math-ai/web/",
@@ -65,12 +49,8 @@
       "id": "wakuwaku-programming",
       "title": "わくわくプログラミング",
       "kind": "授業で使う",
-      "subjects": [
-        "算数"
-      ],
-      "grades": [
-        5
-      ],
+      "subjects": ["算数"],
+      "grades": [5],
       "unit": "倍数と約数（プログラミング）",
       "desc": "ブロックを組んで、数表のマスを倍数の色でぬるミッション。",
       "url": "https://kyouzai-lab.github.io/wakuwaku-programming/",
@@ -80,12 +60,8 @@
       "id": "dagakki-ongaku",
       "title": "打楽器の音楽をつくろう",
       "kind": "授業で使う",
-      "subjects": [
-        "音楽"
-      ],
-      "grades": [
-        4
-      ],
+      "subjects": ["音楽"],
+      "grades": [4],
       "unit": "打楽器の音楽づくり",
       "desc": "楽器とカードを表にならべて、グループの音楽を組み立てる。",
       "url": "https://kyouzai-lab.github.io/dagakki-ongaku/",
@@ -95,12 +71,8 @@
       "id": "kuku-tama",
       "title": "くくたま",
       "kind": "授業で使う",
-      "subjects": [
-        "算数"
-      ],
-      "grades": [
-        2
-      ],
+      "subjects": ["算数"],
+      "grades": [2],
       "unit": "かけ算（九九）",
       "desc": "1日3回・1回1分の九九で、たまごから生まれたキャラをお部屋で育てる。",
       "url": "https://kyouzai-lab.github.io/kuku-tama/",
@@ -110,17 +82,8 @@
       "id": "hayaoshi",
       "title": "早押しクイズ",
       "kind": "クラスで遊ぶ",
-      "subjects": [
-        "国語",
-        "算数",
-        "理科",
-        "社会"
-      ],
-      "grades": [
-        4,
-        5,
-        6
-      ],
+      "subjects": ["国語", "算数", "理科", "社会"],
+      "grades": [4, 5, 6],
       "unit": "4教科のクイズ",
       "desc": "クイズ番組のような早押しで、2〜5人で対戦。ひらがなで答える。",
       "url": "https://hal-88.github.io/hayaoshi/",
@@ -130,15 +93,8 @@
       "id": "hayauchi",
       "title": "はやうち忍者",
       "kind": "クラスで遊ぶ",
-      "subjects": [
-        "国語"
-      ],
-      "grades": [
-        3,
-        4,
-        5,
-        6
-      ],
+      "subjects": ["国語"],
+      "grades": [3, 4, 5, 6],
       "unit": "ローマ字入力",
       "desc": "忍者になって、ローマ字の早打ちで対戦。術でぎゃくてんもある。",
       "url": "https://hal-88.github.io/hayauchi/",
@@ -148,14 +104,8 @@
       "id": "kanji-sugoroku",
       "title": "漢字すごろく",
       "kind": "クラスで遊ぶ",
-      "subjects": [
-        "国語"
-      ],
-      "grades": [
-        4,
-        5,
-        6
-      ],
+      "subjects": ["国語"],
+      "grades": [4, 5, 6],
       "unit": "漢字の読み",
       "desc": "読めたら進める3Dすごろく。カードでじゃまし合い、オンライン対戦も。",
       "url": "https://hal-88.github.io/kanji-sugoroku/",
@@ -165,17 +115,8 @@
       "id": "hoshi-atsume",
       "title": "ほしあつめ スコアボード",
       "kind": "授業の道具",
-      "subjects": [
-        "全教科"
-      ],
-      "grades": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
+      "subjects": ["全教科"],
+      "grades": [1, 2, 3, 4, 5, 6],
       "unit": "班のがんばりを数える",
       "desc": "班をタップして★を足していく。大きな画面に映して使う。",
       "url": "https://kyouzai-lab.github.io/hoshi-atsume/",
@@ -185,12 +126,8 @@
       "id": "shashin-teishutsu",
       "title": "写真ていしゅつ",
       "kind": "授業の道具",
-      "subjects": [
-        "全教科"
-      ],
-      "grades": [
-        6
-      ],
+      "subjects": ["全教科"],
+      "grades": [6],
       "unit": "写真を集めて印刷",
       "desc": "写真を1〜3枚送ると、先生が出席番号順にA4で印刷できる。",
       "url": "https://kyouzai-lab.github.io/shashin-teishutsu/",
