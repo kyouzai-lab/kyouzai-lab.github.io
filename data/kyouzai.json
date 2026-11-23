@@ -132,6 +132,17 @@
       "desc": "写真を1〜3枚送ると、先生が出席番号順にA4で印刷できる。",
       "url": "https://kyouzai-lab.github.io/shashin-teishutsu/",
       "image": "shots/shashin-teishutsu.webp"
+    },
+    {
+      "id": "suiyoueki-mystery",
+      "title": "水溶液ミステリー",
+      "kind": "授業で使う",
+      "subjects": ["理科"],
+      "grades": [6],
+      "unit": "水溶液の性質",
+      "desc": "限られた回数の実験で、謎のびんの水溶液の正体をつきとめる推理ゲーム。",
+      "url": "https://kyouzai-lab.github.io/suiyoueki-mystery/",
+      "image": "shots/suiyoueki-mystery.webp"
     }
   ]
 }
