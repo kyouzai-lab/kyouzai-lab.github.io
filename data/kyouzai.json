@@ -74,7 +74,7 @@
       "subjects": ["算数"],
       "grades": [2],
       "unit": "かけ算（九九）",
-      "desc": "1日3回・1回1分の九九で、たまごから生まれたキャラをお部屋で育てる。",
+      "desc": "1日3回・1回45秒の九九で、たまごから生まれたキャラをお部屋で育てる。",
       "url": "https://kyouzai-lab.github.io/kuku-tama/",
       "image": "shots/kuku-tama.webp"
     },
