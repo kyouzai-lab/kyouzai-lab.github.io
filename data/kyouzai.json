@@ -151,7 +151,7 @@
       "subjects": ["算数"],
       "grades": [6],
       "unit": "比例と反比例",
-      "desc": "グラフの目もりからカップの座標を読み、y＝□×x の □ を決めてボールを打つ比例のゴルフ。",
+      "desc": "目もりからカップの座標を読み、y＝□×x や y＝□÷x の □ を決めて打つ比例・反比例のゴルフ。ランダムコースつき。",
       "url": "https://kyouzai-lab.github.io/graph-golf/",
       "image": "shots/graph-golf.webp"
     }
