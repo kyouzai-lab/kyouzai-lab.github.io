@@ -143,6 +143,17 @@
       "desc": "限られた回数の実験で、謎のびんの水溶液の正体をつきとめる推理ゲーム。",
       "url": "https://kyouzai-lab.github.io/suiyoueki-mystery/",
       "image": "shots/suiyoueki-mystery.webp"
+    },
+    {
+      "id": "graph-golf",
+      "title": "グラフ・ゴルフ",
+      "kind": "授業で使う",
+      "subjects": ["算数"],
+      "grades": [6],
+      "unit": "比例と反比例",
+      "desc": "グラフの目もりからカップの座標を読み、y＝□×x の □ を決めてボールを打つ比例のゴルフ。",
+      "url": "https://kyouzai-lab.github.io/graph-golf/",
+      "image": "shots/graph-golf.webp"
     }
   ]
 }
