@@ -176,6 +176,17 @@
       "desc": "座席表で当てる順番を決めて、次の人の席を光らせる。名簿の名前と、考え方・グループのメモつき。",
       "url": "https://kyouzai-lab.github.io/shimei-jun/",
       "image": "shots/shimei-jun.webp"
+    },
+    {
+      "id": "ima-nani-board",
+      "title": "今なにする？ボード",
+      "kind": "授業の道具",
+      "subjects": ["全教科"],
+      "grades": [1, 2, 3, 4, 5, 6],
+      "unit": "授業の流れを見せる",
+      "desc": "活動と残り時間を大きく映して、今なにをする時間か・あと何分かを子どもが自分で見てわかるようにする。",
+      "url": "https://kyouzai-lab.github.io/ima-nani-board/",
+      "image": "shots/ima-nani-board.webp"
     }
   ]
 }
