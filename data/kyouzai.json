@@ -154,6 +154,17 @@
       "desc": "目もりからカップの座標を読み、y＝□×x や y＝□÷x の □ を決めて打つ比例・反比例のゴルフ。ランダムコースつき。",
       "url": "https://kyouzai-lab.github.io/graph-golf/",
       "image": "shots/graph-golf.webp"
+    },
+    {
+      "id": "shimei-jun",
+      "title": "あてる順",
+      "kind": "授業の道具",
+      "subjects": ["全教科"],
+      "grades": [1, 2, 3, 4, 5, 6],
+      "unit": "当てる順番を決める",
+      "desc": "座席表で当てる順番を決めて、次の人の席を光らせる。名簿の名前と、考え方・グループのメモつき。",
+      "url": "https://kyouzai-lab.github.io/shimei-jun/",
+      "image": "shots/shimei-jun.webp"
     }
   ]
 }
