@@ -90,6 +90,17 @@
       "image": "shots/hayaoshi.webp"
     },
     {
+      "id": "hayaoshi5",
+      "title": "早押しクイズ 5年",
+      "kind": "クラスで遊ぶ",
+      "subjects": ["国語", "算数", "理科", "社会"],
+      "grades": [5],
+      "unit": "4教科のクイズ（4・5年の内容）",
+      "desc": "5年生用の早押しクイズ。4・5年の内容から出る。期間限定の一般常識イベントつき。",
+      "url": "https://hal-88.github.io/hayaoshi5/",
+      "image": "shots/hayaoshi5.webp"
+    },
+    {
       "id": "hayauchi",
       "title": "はやうち忍者",
       "kind": "クラスで遊ぶ",
