@@ -198,6 +198,17 @@
       "desc": "難しさを自分で選んで答えるほど強いこうげき。コインでガチャを引き、薬で強くなるドット絵のRPG。子どもが考えたルールから作った。",
       "url": "https://kyouzai-lab.github.io/manabi-quest/",
       "image": "shots/manabi-quest.webp"
+    },
+    {
+      "id": "sekigae",
+      "title": "せきがえ",
+      "kind": "授業の道具",
+      "subjects": ["全教科"],
+      "grades": [1, 2, 3, 4, 5, 6],
+      "unit": "席替え",
+      "desc": "男女の位置や「離す・近く・前の席」の条件を守ってランダムに席を決める。前回と同じ班をできるだけ減らし、くじの演出で発表する。名簿は合言葉で暗号化。",
+      "url": "https://kyouzai-lab.github.io/sekigae/",
+      "image": "shots/sekigae.webp"
     }
   ]
 }
