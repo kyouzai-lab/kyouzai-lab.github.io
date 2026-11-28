@@ -212,7 +212,7 @@
     },
     {
       "id": "eigo-run",
-      "title": "えいごラン",
+      "title": "English RUN（えいごラン）",
       "kind": "クラスで遊ぶ",
       "subjects": ["外国語"],
       "grades": [5, 6],
